@@ -28,7 +28,7 @@ android:
     - extra-android-m2repository
     - extra-android-support
     
-    - sys-img-$ANDROID_ABI-google_apis-$ANDROID_EMU_API_LEVE
+    - sys-img-$ANDROID_ABI-google_apis-$ANDROID_EMU_API_LEVEl
 
   licenses:
       - 'android-sdk-preview-license-52d11cd2'
